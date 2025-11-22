@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ss8Kb4cT71g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\programación Web\\formulario y base de datos\\servicioweb\\servicioweb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
